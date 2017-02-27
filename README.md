@@ -1,5 +1,4 @@
 # Angular 2 Sample Example
-[![Build Status][travis-badge]][travis-badge-url]
 
 This repository holds the TypeScript source code of the sample angular 2 application,
 
