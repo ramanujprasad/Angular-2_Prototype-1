@@ -1,7 +1,7 @@
 {
-  "name": "angular2prototype1",
+  "name": "myfirstangular2prototype",
   "version": "1.0.0",
-  "description": "angular2prototype1",
+  "description": "myfirstangular2prototype",
   "scripts": {
     "build": "tsc -p src/",
     "build:watch": "tsc -p src/ -w",
